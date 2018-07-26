@@ -40,15 +40,8 @@ $ npm start
 * This should open up the Demo App
 
 
-## Demo Screens
-* All Gists for a user
-![All Gists for a user](screenshots/screen1.png)
-
-* Gist Details with Forks
-![Gist Details with Forks](screenshots/screen2.png)
-
-* Basic Error scenarios
-![Basic Error scenarios](screenshots/screen3.png)
+## Gif Demo
+![Demo](screenshots/demo.gif)
 
 #### Generating a Production build
 ```
