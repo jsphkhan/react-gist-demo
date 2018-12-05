@@ -1,7 +1,10 @@
 .badge {
-    background-color: #37B0B2;
+    background-color: #E69C37; 
     color: #ffffff;
     padding: 5px;
     border-radius: 5px;
     margin-right: 5px;
+    font-size: 8px;
+    font-weight: 400;
+    letter-spacing: 1px;
 }
